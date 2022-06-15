@@ -20,7 +20,7 @@
 - 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
 - 我们在这个世界上辛苦劳作，来回奔波是为了什么？所有这些贪婪和欲望，所有这些对财富、权利和名声的追求，其目的到底何在呢？归根结底，是为了得到他人的爱和认同。  —— 亚当*斯密
 - 无所畏惧（fearless）不是没有恐惧；而是你依然心怀恐惧，但无论如何都决定要跳进去。
-- 我从互联网上得到的最好的经验之一，就是永远不要复制和粘贴不是自己编写的代码。如果你一定要复制，那就照着它逐字输入，逼着自己思考，这些代码实际上是什么意思。
-- 一个人觉得最引以为自豪的事情，往往是那些做起来最艰难的事情。这一点你千万不要怀疑。
-- 当你决定做一件事情的时候，你必须在72小时之内完成，否则你很可能永远不会再做了。  
-- 我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。   —— 理查德·斯托曼
+- One of the best lessons I've learned on the Internet is never copy and paste code you didn't write. If you have to copy, just type it word for word and force yourself to think about what the code actually means.
+- The things one is most proud of are often the hardest things to do. You must not doubt it.
+- When you decide to do something, you must do it within 72 hours, or you will probably never do it again.  
+- I'm a pessimist. Others fight for victory, not me. I always fight, and sometimes I win. 
