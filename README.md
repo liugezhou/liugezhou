@@ -22,7 +22,7 @@
 
 <kbd>2022-06-19</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 愿 勇气大于恐惧 热爱胜于枯燥
 
 <!-- Randomly taken from quotations.md -->
 
