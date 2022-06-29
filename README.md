@@ -20,7 +20,7 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-06-28</kbd>
+<kbd>2022-06-29</kbd>
 
 - 愿 勇气大于恐惧 热爱胜于枯燥
 
