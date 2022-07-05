@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-04</kbd>
+<kbd>2022-07-05</kbd>
 
-- 观察得越仔细，越看不清真相。
+- 其实我是一个演员。 —— 周星驰 《喜剧之王》
 
 <!-- Randomly taken from quotations.md -->
 
