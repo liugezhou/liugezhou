@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-06</kbd>
+<kbd>2022-07-07</kbd>
 
-- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
+- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
 
 <!-- Randomly taken from quotations.md -->
 
