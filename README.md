@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-10</kbd>
+<kbd>2022-07-11</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- I'm a pessimist. Others fight for victory, not me. I always fight, and sometimes I win. 
 
 <!-- Randomly taken from quotations.md -->
 
