@@ -20,7 +20,7 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-11</kbd>
+<kbd>2022-07-12</kbd>
 
 - I'm a pessimist. Others fight for victory, not me. I always fight, and sometimes I win. 
 
