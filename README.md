@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-15</kbd>
+<kbd>2022-07-16</kbd>
 
-- 想起来全是问题，做起来才有答案。 —— 王兴饭否
+- 我们在这个世界上辛苦劳作，来回奔波是为了什么？所有这些贪婪和欲望，所有这些对财富、权利和名声的追求，其目的到底何在呢？归根结底，是为了得到他人的爱和认同。  —— 亚当*斯密
 
 <!-- Randomly taken from quotations.md -->
 
