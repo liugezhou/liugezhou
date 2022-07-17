@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-16</kbd>
+<kbd>2022-07-17</kbd>
 
-- 我们在这个世界上辛苦劳作，来回奔波是为了什么？所有这些贪婪和欲望，所有这些对财富、权利和名声的追求，其目的到底何在呢？归根结底，是为了得到他人的爱和认同。  —— 亚当*斯密
+- 人永远不知道，谁哪次不经意的跟你说了再见之后，就真的不会再见了。 —— 宫崎骏《千与千寻》
 
 <!-- Randomly taken from quotations.md -->
 
