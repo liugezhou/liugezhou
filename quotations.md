@@ -23,4 +23,14 @@
 - One of the best lessons I've learned on the Internet is never copy and paste code you didn't write. If you have to copy, just type it word for word and force yourself to think about what the code actually means.
 - The things one is most proud of are often the hardest things to do. You must not doubt it.
 - When you decide to do something, you must do it within 72 hours, or you will probably never do it again.  
-- I'm a pessimist. Others fight for victory, not me. I always fight, and sometimes I win. 
+- I'm a pessimist. Others fight for victory, not me. I always fight, and sometimes I win.   
+- 很多时候，人的勇敢来自于没有选择。
+- 因为朋友的离世，我回忆了我短暂的半生，没有后悔，没有遗憾。每件事都尽力做了，每个人都用心爱过，对没有结果的不会耿耿于怀，对没得到的不再执着追求。像那个老师说的，总有一天你遇到的人和事，会让你觉得高考时候错的那道题刚刚好。人生辽阔，往事一笑而过。  
+- 你学不会的东西，老天爷会让你一遍一遍经历。如果一个人有明显的缺点，比如不细心、马虎，Ta会在未来的人生经历中一次次犯错，一次次体会因为马虎带来的失败，直到他改正这个缺点为止。  
+-  任何一个你不喜欢又离不开的地方，任何一种你不喜欢又摆脱不了的生活，就是监狱。如果你感到痛苦和不自由，希望你心里永远有一团不会熄灭的火焰，不要麻木，不要被同化。 
+- 你所遇到的人生困境，在你出生之前就已经有无数的人遇到并为此给出了各种各样的解决方案。你的迷茫与痛苦，多半源于无知。  
+- 用代码量来考核程序员，相当于用药方来评价医生，用药多的医生，就是好医生。 
+- 普通人不要追求当一个老好人，要去追求当一个强人。你没有那么强的能量，你去当好人，你不仅不会有好报，你还会死的很快。好人不会有好报，但是强人会有好报。  
+- 你活的像白痴，自然有白痴一样的下场。  
+- 一个人只有一种命运。   
+- 要是我还担心自己读书不够快，我就和自己说：有一个能保证我读书读得比世界上任何人都快的方法，就是读我自己写的书。
