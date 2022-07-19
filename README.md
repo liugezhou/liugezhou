@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-18</kbd>
+<kbd>2022-07-19</kbd>
 
-- 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
+- 普通人不要追求当一个老好人，要去追求当一个强人。你没有那么强的能量，你去当好人，你不仅不会有好报，你还会死的很快。好人不会有好报，但是强人会有好报。  
 
 <!-- Randomly taken from quotations.md -->
 
