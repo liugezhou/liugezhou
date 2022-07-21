@@ -20,9 +20,9 @@
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-20</kbd>
+<kbd>2022-07-21</kbd>
 
-- One of the best lessons I've learned on the Internet is never copy and paste code you didn't write. If you have to copy, just type it word for word and force yourself to think about what the code actually means.
+- 其实我是一个演员。 —— 周星驰 《喜剧之王》
 
 <!-- Randomly taken from quotations.md -->
 
