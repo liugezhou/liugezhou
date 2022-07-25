@@ -2,7 +2,7 @@
 
 I am  a front-end developer 
 
-## Blog posts
+## Blog Recently
 
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
