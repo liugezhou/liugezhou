@@ -1,11 +1,17 @@
 <h2>  Hi, welcome! </h2>
 
-###  My name is liugezhou. 
+I am  a front-end developer 
 
- This is  [liugezhou's blog](https://liugezhou.github.io),  
- This is  [liugezhou's running_page](https://run.liugezhou.online),  
+## Blog posts
 
-<h3>Statistics</h3>
+<img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+更多内容直接点击：[https://blog.liugezhou.online](https://blog.liugezhou.online)
+
+## Statistics
 <a href="https://github.com/haixiangyan" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
@@ -13,7 +19,8 @@
   <img alt="常用开发语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liugezhou&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" />
 </a>
 <br>
-<h3>Activities</h3>
+
+## Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
 
 --- 
