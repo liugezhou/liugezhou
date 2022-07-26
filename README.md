@@ -38,7 +38,7 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-25</kbd>
+<kbd>2022-07-26</kbd>
 
 - When you decide to do something, you must do it within 72 hours, or you will probably never do it again.  
 
