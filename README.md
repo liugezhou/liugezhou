@@ -38,9 +38,9 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-27</kbd>
+<kbd>2022-07-28</kbd>
 
-- 观察得越仔细，越看不清真相。
+- 因为朋友的离世，我回忆了我短暂的半生，没有后悔，没有遗憾。每件事都尽力做了，每个人都用心爱过，对没有结果的不会耿耿于怀，对没得到的不再执着追求。像那个老师说的，总有一天你遇到的人和事，会让你觉得高考时候错的那道题刚刚好。人生辽阔，往事一笑而过。  
 
 <!-- Randomly taken from quotations.md -->
 
