@@ -38,9 +38,9 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-07-31</kbd>
+<kbd>2022-08-01</kbd>
 
--  任何一个你不喜欢又离不开的地方，任何一种你不喜欢又摆脱不了的生活，就是监狱。如果你感到痛苦和不自由，希望你心里永远有一团不会熄灭的火焰，不要麻木，不要被同化。 
+- 今天做这件事，对一年后的自己（和家庭），五年后的自己（和家庭），有多大帮助？
 
 <!-- Randomly taken from quotations.md -->
 
