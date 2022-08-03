@@ -38,9 +38,9 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-08-02</kbd>
+<kbd>2022-08-03</kbd>
 
-- 普通人不要追求当一个老好人，要去追求当一个强人。你没有那么强的能量，你去当好人，你不仅不会有好报，你还会死的很快。好人不会有好报，但是强人会有好报。  
+- 今天做这件事，对一年后的自己（和家庭），五年后的自己（和家庭），有多大帮助？
 
 <!-- Randomly taken from quotations.md -->
 
