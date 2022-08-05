@@ -38,9 +38,9 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-08-04</kbd>
+<kbd>2022-08-05</kbd>
 
-- 用代码量来考核程序员，相当于用药方来评价医生，用药多的医生，就是好医生。 
+- 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
 
 <!-- Randomly taken from quotations.md -->
 
