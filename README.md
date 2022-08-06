@@ -38,9 +38,9 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-08-05</kbd>
+<kbd>2022-08-06</kbd>
 
-- 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
+- 一个人只有一种命运。   
 
 <!-- Randomly taken from quotations.md -->
 
