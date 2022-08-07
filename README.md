@@ -38,9 +38,9 @@ I am  a front-end developer
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
 
-<kbd>2022-08-06</kbd>
+<kbd>2022-08-07</kbd>
 
-- 一个人只有一种命运。   
+- 观察得越仔细，越看不清真相。
 
 <!-- Randomly taken from quotations.md -->
 
