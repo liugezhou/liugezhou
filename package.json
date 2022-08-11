@@ -3,6 +3,7 @@
     "test": "node ./daily.js"
   },
   "dependencies": {
+    "dayjs": "^1.11.4",
     "lodash": "^4.17.21"
   }
 }

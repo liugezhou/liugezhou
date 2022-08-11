@@ -11,10 +11,8 @@
 - Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
 - 其实我是一个演员。 —— 周星驰 《喜剧之王》
 - Some things are far away, you strive for, it will be closer and closer to you。
-- Do what you have to do, and accept that it's not going to work out. We need to try, but maybe if we try, we'll end up with nothing, but that doesn't mean we shouldn't try。
-- 我所有的自负都来自于我的自卑，所有的英雄气概都来自于我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情，我以为人生的意义在于四处游荡，其实只是掩饰至今没有找到愿意驻足的地方。 —— 《坦白书》
+- Do what you have to do, and accept that it's not going to work out. We need to try, but maybe if we try, we'll end up with nothing, but that doesn't mean we shouldn't try。 
 - 想起来全是问题，做起来才有答案。 —— 王兴饭否
-- 观察得越仔细，越看不清真相。
 - 你日渐平庸，甘于平庸，将继续平庸。 —— 《以自己喜欢的方式过一生》
 - 你之所以会活的不开心，是因为你太喜欢回头看了，人的这一生很长，不要站在现在的角度去批判过去的自己，除了生病之外，我们所有能感受到的痛苦，都不是真实存在的，而是那么多年的价值观所带来的的，所以即使人生能够重来，相信以当时的心智和当时的阅历，我们还是会做出同样的选择，所以人一定要学会跟自己和解，去接受每一个阶段的自己，无论好坏，这都是你的人生。
 - 你要看的不仅仅是棋局，还要看棋手藏于心底的谋划。
