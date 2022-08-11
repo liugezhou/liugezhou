@@ -1,8 +1,8 @@
-<h2>  Hi, welcome! </h2>
+<h3>  Hi, welcome! </h3>
 
-I am  a front-end developer 
+- front-end developer . 
 
-## Blog Recently
+### Blog Recently
 
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
@@ -20,9 +20,9 @@ I am  a front-end developer
 - 🌊 [前端性能优化小结](https://blog.liugezhou.online/028-%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%B0%8F%E7%BB%93/) 
 <!-- BLOG-POST-LIST:END -->
 
-更多内容直接点击：[https://blog.liugezhou.online](https://blog.liugezhou.online)
+Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
-## Statistics
+### Statistics
 <a href="https://github.com/haixiangyan" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
@@ -31,12 +31,12 @@ I am  a front-end developer
 </a>
 <br>
 
-## Activities
+### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
 
 --- 
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h3>
+<h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
 <kbd>2022-08-11</kbd>
 

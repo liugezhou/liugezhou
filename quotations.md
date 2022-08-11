@@ -2,7 +2,7 @@
 
 ## Randomly taken daily. If you want to add your quotations, welcome send a PR to this below!
 
-- 愿 勇气大于恐惧 热爱胜于枯燥
+- May Courage be greater than fear, and love more than dullness
 - 人生就是这样，求上得中求中得下，求下而不得。职场黄金期，没几年的，你年轻，要跟优秀的人一起做事，学会他们的工作方法，待人处事，不要一直想着要好好做，就单纯的好好去做。所有的学习，最开始都像是在照镜子，无非是学到了，再换一个老师，换一面镜子，直到有一天你发现，新的镜子里是你自己，你就有你自己的方法了，你就可以做别人的镜子了。 ——《流金岁月》
 - 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
 - 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
@@ -10,8 +10,8 @@
 - You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 - Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
 - 其实我是一个演员。 —— 周星驰 《喜剧之王》
-- 有些事本来很遥远，你争取，它就会离你越来越近。
-- 做你该做的事，并且接受它的事与愿违，我们需要努力，但是也许我们努力了，我们最终依然是竹篮打水一场空，但并不代表着我们不应该努力。
+- Some things are far away, you strive for, it will be closer and closer to you。
+- Do what you have to do, and accept that it's not going to work out. We need to try, but maybe if we try, we'll end up with nothing, but that doesn't mean we shouldn't try。
 - 我所有的自负都来自于我的自卑，所有的英雄气概都来自于我内心的软弱，所有的振振有词都因为心中满是怀疑。我假装无情，其实是痛恨自己的深情，我以为人生的意义在于四处游荡，其实只是掩饰至今没有找到愿意驻足的地方。 —— 《坦白书》
 - 想起来全是问题，做起来才有答案。 —— 王兴饭否
 - 观察得越仔细，越看不清真相。
