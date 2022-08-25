@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-08-24</kbd>
+<kbd>2022-08-25</kbd>
 
-- 你所遇到的人生困境，在你出生之前就已经有无数的人遇到并为此给出了各种各样的解决方案。你的迷茫与痛苦，多半源于无知。  
+- 无所畏惧（fearless）不是没有恐惧；而是你依然心怀恐惧，但无论如何都决定要跳进去。
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -42,6 +42,7 @@ Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
 #### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
