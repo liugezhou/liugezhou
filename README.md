@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-08-26</kbd>
+<kbd>2022-08-27</kbd>
 
-- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
+- Do what you have to do, and accept that it's not going to work out. We need to try, but maybe if we try, we'll end up with nothing, but that doesn't mean we shouldn't try。 
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -42,6 +42,7 @@ Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
 #### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
