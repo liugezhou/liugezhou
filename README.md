@@ -16,17 +16,17 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [每周小结&lpar;*70&rpar;:职场PUA](https://blog.liugezhou.online/202233-No70/) 
+- 🦆 [每周小结&lpar;*71&rpar;:青春未凉离了伤](https://blog.liugezhou.online/202234-No71/) 
 
-- 🧰 [每周小结&lpar;*69&rpar;：我的前半生](https://blog.liugezhou.online/202232-No69/) 
+- 🧰 [每周小结&lpar;*70&rpar;:职场PUA](https://blog.liugezhou.online/202233-No70/) 
 
-- 🤩 [每周小结&lpar;*68&rpar;：为什么要打架](https://blog.liugezhou.online/202231-No68/) 
+- 🤩 [每周小结&lpar;*69&rpar;：我的前半生](https://blog.liugezhou.online/202232-No69/) 
+
+- ⚗️ [每周小结&lpar;*68&rpar;：为什么要打架](https://blog.liugezhou.online/202231-No68/) 
 
 - ⚗️ [每周小结&lpar;*67&rpar;：为什么不敢发表观点](https://blog.liugezhou.online/202230-No67/) 
 
-- ⚗️ [每周小结&lpar;*66&rpar;：下一个五年](https://blog.liugezhou.online/202229-No66/) 
-
-- 🌊 [每周小结&lpar;*65&rpar;：有计划的输出](https://blog.liugezhou.online/202228-No65/) 
+- 🌊 [每周小结&lpar;*66&rpar;：下一个五年](https://blog.liugezhou.online/202229-No66/) 
 <!-- BLOG-POST-LIST:END -->
 
 Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
