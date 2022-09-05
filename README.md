@@ -16,17 +16,17 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [一文学会vim](https://blog.liugezhou.online/030-%E4%B8%80%E6%96%87%E5%AD%A6%E4%BC%9Avim/) 
+- 🦆 [每周小结&lpar;*72&rpar;:没有主题](https://blog.liugezhou.online/202235-No72/) 
 
-- 🧰 [每周小结&lpar;*71&rpar;:青春未凉离了伤](https://blog.liugezhou.online/202234-No71/) 
+- 🧰 [一文学会vim](https://blog.liugezhou.online/030-%E4%B8%80%E6%96%87%E5%AD%A6%E4%BC%9Avim/) 
 
-- 🤩 [每周小结&lpar;*70&rpar;:职场PUA](https://blog.liugezhou.online/202233-No70/) 
+- 🤩 [每周小结&lpar;*71&rpar;:青春未凉离了伤](https://blog.liugezhou.online/202234-No71/) 
+
+- ⚗️ [每周小结&lpar;*70&rpar;:职场PUA](https://blog.liugezhou.online/202233-No70/) 
 
 - ⚗️ [每周小结&lpar;*69&rpar;：我的前半生](https://blog.liugezhou.online/202232-No69/) 
 
-- ⚗️ [每周小结&lpar;*68&rpar;：为什么要打架](https://blog.liugezhou.online/202231-No68/) 
-
-- 🌊 [每周小结&lpar;*67&rpar;：为什么不敢发表观点](https://blog.liugezhou.online/202230-No67/) 
+- 🌊 [每周小结&lpar;*68&rpar;：为什么要打架](https://blog.liugezhou.online/202231-No68/) 
 <!-- BLOG-POST-LIST:END -->
 
 Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
