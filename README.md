@@ -3,7 +3,7 @@
 
 <kbd>2022-09-09</kbd>
 
-- 因为朋友的离世，我回忆了我短暂的半生，没有后悔，没有遗憾。每件事都尽力做了，每个人都用心爱过，对没有结果的不会耿耿于怀，对没得到的不再执着追求。像那个老师说的，总有一天你遇到的人和事，会让你觉得高考时候错的那道题刚刚好。人生辽阔，往事一笑而过。  
+- 人生就是这样，求上得中求中得下，求下而不得。职场黄金期，没几年的，你年轻，要跟优秀的人一起做事，学会他们的工作方法，待人处事，不要一直想着要好好做，就单纯的好好去做。所有的学习，最开始都像是在照镜子，无非是学到了，再换一个老师，换一面镜子，直到有一天你发现，新的镜子里是你自己，你就有你自己的方法了，你就可以做别人的镜子了。 
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -44,4 +44,5 @@ Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
 #### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
