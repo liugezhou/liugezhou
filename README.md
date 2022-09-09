@@ -11,6 +11,8 @@
 <!--End-->
 <img src="http://github-readme-streak-stats.herokuapp.com?user=liugezhou&theme=radical" width="100%" />
 
+<img src="./assets/github-contribution-grid-snake.svg" width="100%" />
+
 #### Blog Recently
 
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
@@ -42,45 +44,4 @@ Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
 #### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
