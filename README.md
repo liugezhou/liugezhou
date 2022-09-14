@@ -18,11 +18,11 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [每周小结&lpar;*73&rpar;:临终遗憾](https://blog.liugezhou.online/202236-No73/) 
+- 🦆 [一篇就学会vim](https://blog.liugezhou.online/030-%E4%B8%80%E7%AF%87%E5%B0%B1%E5%AD%A6%E4%BC%9Avim/) 
 
-- 🧰 [每周小结&lpar;*72&rpar;:没有主题](https://blog.liugezhou.online/202235-No72/) 
+- 🧰 [每周小结&lpar;*73&rpar;:临终遗憾](https://blog.liugezhou.online/202236-No73/) 
 
-- 🤩 [一文学会vim](https://blog.liugezhou.online/030-%E4%B8%80%E6%96%87%E5%AD%A6%E4%BC%9Avim/) 
+- 🤩 [每周小结&lpar;*72&rpar;:没有主题](https://blog.liugezhou.online/202235-No72/) 
 
 - ⚗️ [每周小结&lpar;*71&rpar;:青春未凉离了伤](https://blog.liugezhou.online/202234-No71/) 
 
