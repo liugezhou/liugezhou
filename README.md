@@ -18,17 +18,17 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [vim切换输入法](https://blog.liugezhou.online/031-Vim%E6%8F%92%E4%BB%B6/) 
+- 🦆 [每周小结&lpar;*75&rpar;:一篇就会速成法](https://blog.liugezhou.online/202238-No75/) 
 
-- 🧰 [每周小结&lpar;*74&rpar;:科技向善](https://blog.liugezhou.online/202237-No74/) 
+- 🧰 [vim切换输入法](https://blog.liugezhou.online/031-Vim%E6%8F%92%E4%BB%B6/) 
 
-- 🤩 [一篇就学会vim](https://blog.liugezhou.online/030-%E4%B8%80%E7%AF%87%E5%B0%B1%E5%AD%A6%E4%BC%9Avim/) 
+- 🤩 [每周小结&lpar;*74&rpar;:科技向善](https://blog.liugezhou.online/202237-No74/) 
+
+- ⚗️ [一篇就学会vim](https://blog.liugezhou.online/030-%E4%B8%80%E7%AF%87%E5%B0%B1%E5%AD%A6%E4%BC%9Avim/) 
 
 - ⚗️ [每周小结&lpar;*73&rpar;:临终遗憾](https://blog.liugezhou.online/202236-No73/) 
 
-- ⚗️ [每周小结&lpar;*72&rpar;:没有主题](https://blog.liugezhou.online/202235-No72/) 
-
-- 🌊 [每周小结&lpar;*71&rpar;:青春未凉离了伤](https://blog.liugezhou.online/202234-No71/) 
+- 🌊 [每周小结&lpar;*72&rpar;:没有主题](https://blog.liugezhou.online/202235-No72/) 
 <!-- BLOG-POST-LIST:END -->
 
 Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
