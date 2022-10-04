@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-10-03</kbd>
+<kbd>2022-10-04</kbd>
 
-- When you decide to do something, you must do it within 72 hours, or you will probably never do it again.  
+- 想起来全是问题，做起来才有答案。 
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -44,6 +44,7 @@ Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
 #### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
