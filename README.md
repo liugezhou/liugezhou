@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-10-11</kbd>
+<kbd>2022-10-12</kbd>
 
-- 想起来全是问题，做起来才有答案。 
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -44,6 +44,7 @@ Blog：[https://blog.liugezhou.online](https://blog.liugezhou.online)
 
 #### Activities
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
