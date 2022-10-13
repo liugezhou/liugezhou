@@ -14,7 +14,7 @@ jobs:
       - name: Pull in liugezhou posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: 8
+          max_post_count: 7
           committer_username: "liugezhou"
           committer_email: "18231133236@163.com"
           feed_list: "https://blog.liugezhou.online/atom.xml"

@@ -13,7 +13,7 @@
 #### [ ✨ back to basic frontend](https://blog.liugezhou.online/frontend-docs/everyday/today.html)
 ![day16](https://tikolu.net/i/fbiom)
 
-<img src="./assets/github-contribution-grid-snake.svg" width="100%" />
+<!-- <img src="./assets/github-contribution-grid-snake.svg" width="100%" /> -->
 
 #### [ 🧑‍💻 Blog Recently](https://blog.liugezhou.online)
 
