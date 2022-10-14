@@ -11,7 +11,7 @@
 <!--End-->
 
 #### [ ✨ back to basic frontend](https://blog.liugezhou.online/frontend-docs/everyday/today.html)
-![day16](https://tikolu.net/i/fbiom)
+![day17](https://tikolu.net/i/wguqu)
 
 <!-- <img src="./assets/github-contribution-grid-snake.svg" width="100%" /> -->
 
