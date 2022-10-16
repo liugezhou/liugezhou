@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-10-15</kbd>
+<kbd>2022-10-16</kbd>
 
-- 如果你有普通的性格，简单的快乐，稳定的情绪，一般的工作，平平淡淡的生活，不攀比的心境，从从容容，那么你真是个很优秀的人。  
+- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,5 +49,6 @@
 
 #### [ 🧐 Activities]()
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
