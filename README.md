@@ -10,8 +10,8 @@
 </p>
 <!--End-->
 
-#### [ ✨ back to basic frontend](https://blog.liugezhou.online/frontend-docs/everyday/today.html)
-![day17](https://tikolu.net/i/wguqu)
+#### [ ✨ back to basic frontend](https://day.liugezhou.online/daily/day18.html)
+![day18](https://tikolu.net/i/tntbq)
 
 <!-- <img src="./assets/github-contribution-grid-snake.svg" width="100%" /> -->
 

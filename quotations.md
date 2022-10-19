@@ -1,7 +1,5 @@
 # Quotations
 
-## Randomly taken daily. If you want to add your quotations, welcome send a PR to this below!
-
 - May Courage be greater than fear, and love more than dullness
 - 人生就是这样，求上得中求中得下，求下而不得。职场黄金期，没几年的，你年轻，要跟优秀的人一起做事，学会他们的工作方法，待人处事，不要一直想着要好好做，就单纯的好好去做。所有的学习，最开始都像是在照镜子，无非是学到了，再换一个老师，换一面镜子，直到有一天你发现，新的镜子里是你自己，你就有你自己的方法了，你就可以做别人的镜子了。 
 - 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。
@@ -39,3 +37,17 @@
 实际上：你必须先着手去做，才能在执行的过程中逐渐搞清楚怎么做，不做就永远不知道该怎么做。  
 - 我一无所有，除了微笑，无论何时何地遇到何事，微笑都可以令我感觉到我的生活比以往更加美好  
 - 我辈既如此学，便须努力向前，完养精神，将一切闲思维、闲应酬、闲言语扫除净尽，专心一意，钻进里面，安神立命，务要另换一个人出来，方是功夫进步，愿共勉之！  
+- 有些人能清楚的听清自己内心深处的声音，并以此行事。这些人要成了疯子，要么变成了传奇。
+- 真相是一种美丽又可怕的东西，需要格外谨慎地对待。  
+- The important thing in life is to have a great aim and the determination to attain it.  
+- 只有有耐心圆满完成简单工作的人，才能轻而易举地完成困难的事。  
+- Every man dies,not every man really lives   
+- Have you somewhat to do tomorrow, do it today.  
+- Be brave,take some risks,make some mistakes and then learn from them. 
+- Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.
+- One is always on a strange road,watching strange scenery and listening to strange music. Then one day,you will find that the things you try hard to forget are already gone.  
+- Living without an aim is like sailing without a compass.    
+- It's never too late to be who you wanna be,to say what you wanna say. 
+- Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.  
+- And when they let you down,you get up off the ground.Cause morning rolls around.Ant it's another day of sun.  
+- 一个人可以失败很多次，但是只要他没有开始责怪旁人，他还不是一个失败者。  
