@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-10-21</kbd>
+<kbd>2022-10-22</kbd>
 
-- I'm a pessimist. Others fight for victory, not me. I always fight, and sometimes I win.   
+- 我辈既如此学，便须努力向前，完养精神，将一切闲思维、闲应酬、闲言语扫除净尽，专心一意，钻进里面，安神立命，务要另换一个人出来，方是功夫进步，愿共勉之！  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 Activities]()
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
