@@ -11,7 +11,7 @@
 <!--End-->
 
 #### [ ✨ back to basic frontend](https://day.liugezhou.online/daily/day22.html)
-![day21](https://cdn.staticaly.com/gh/liugezhou/image@master/day/day22.webp)
+<image src="https://cdn.staticaly.com/gh/liugezhou/image@master/day/day22.webp" style="width:50%"/>
 
 <!-- <img src="./assets/github-contribution-grid-snake.svg" width="100%" /> -->
 
