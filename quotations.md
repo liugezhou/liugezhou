@@ -51,3 +51,4 @@
 - Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.  
 - And when they let you down,you get up off the ground.Cause morning rolls around.Ant it's another day of sun.  
 - 一个人可以失败很多次，但是只要他没有开始责怪旁人，他还不是一个失败者。  
+- 不要恐惧 
