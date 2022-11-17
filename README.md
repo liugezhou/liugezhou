@@ -20,19 +20,19 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [每周小结&lpar;*82&rpar;:双十一数据](https://blog.liugezhou.online/202245-No82/) 
+- 🦆 [邓小平时代](https://blog.liugezhou.online/read003-%E9%82%93%E5%B0%8F%E5%B9%B3%E6%97%B6%E4%BB%A3/) 
 
-- 🧰 [每周小结&lpar;*81&rpar;:坚持100期](https://blog.liugezhou.online/202244-No81/) 
+- 🧰 [每周小结&lpar;*82&rpar;:双十一数据](https://blog.liugezhou.online/202245-No82/) 
 
-- 🤩 [每周小结&lpar;*80&rpar;:清空微博](https://blog.liugezhou.online/202243-No80/) 
+- 🤩 [每周小结&lpar;*81&rpar;:坚持100期](https://blog.liugezhou.online/202244-No81/) 
+
+- ⚗️ [每周小结&lpar;*80&rpar;:清空微博](https://blog.liugezhou.online/202243-No80/) 
 
 - ⚗️ [每周小结&lpar;*79&rpar;:尼玛](https://blog.liugezhou.online/202242-No79/) 
 
-- ⚗️ [每周小结&lpar;*78&rpar;:活着](https://blog.liugezhou.online/202241-No78/) 
+- 🌊 [每周小结&lpar;*78&rpar;:活着](https://blog.liugezhou.online/202241-No78/) 
 
-- 🌊 [活着](https://blog.liugezhou.online/read002-%E6%B4%BB%E7%9D%80/) 
-
-- 🧰 [微信小程序自动化实现:Automator](https://blog.liugezhou.online/032-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/) 
+- 🧰 [活着](https://blog.liugezhou.online/read002-%E6%B4%BB%E7%9D%80/) 
 <!-- BLOG-POST-LIST:END -->
 
 
