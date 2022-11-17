@@ -10,8 +10,8 @@
 </p>
 <!--End-->
 
-#### [ ✨ back to basic frontend](https://day.liugezhou.online/daily/day28.html)
-<image src="https://cdn.staticaly.com/gh/liugezhou/image@master/day/day28.png"/>
+#### [ ✨ back to basic frontend](https://day.liugezhou.online/daily/day29.html)
+<image src="https://cdn.staticaly.com/gh/liugezhou/image@master/day/day29.png"/>
 
 <!-- <img src="./assets/github-contribution-grid-snake.svg" width="100%" /> -->
 
