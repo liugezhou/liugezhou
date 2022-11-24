@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-11-23</kbd>
+<kbd>2022-11-24</kbd>
 
-- One of the best lessons I've learned on the Internet is never copy and paste code you didn't write. If you have to copy, just type it word for word and force yourself to think about what the code actually means.
+- 真相是一种美丽又可怕的东西，需要格外谨慎地对待。  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 Activities]()
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
