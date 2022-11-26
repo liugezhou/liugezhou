@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-11-25</kbd>
+<kbd>2022-11-26</kbd>
 
-- Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless.
+- The things one is most proud of are often the hardest things to do. You must not doubt it.
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 Activities]()
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
