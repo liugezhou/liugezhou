@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-12-04</kbd>
+<kbd>2022-12-05</kbd>
 
-- 你学不会的东西，老天爷会让你一遍一遍经历。如果一个人有明显的缺点，比如不细心、马虎，Ta会在未来的人生经历中一次次犯错，一次次体会因为马虎带来的失败，直到他改正这个缺点为止。  
+- 生命在于折腾。做成一件事情时，不要特别放大自己；事情没做好，也不用气馁。 一定要相信我是牛逼的，这件事情不行没有关系，我接着做下一个，我死之前一直干，早晚能成。   
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 Activities]()
 <img alt="Github 日常" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=liugezhou&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"  />
+
 
 
 
