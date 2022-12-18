@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-12-17</kbd>
+<kbd>2022-12-18</kbd>
 
-- 世上有一样东西，比任何别的东西都更忠诚于你，那就是你的经历，以及你在经历中的感受，痛悟和思考……
+- 如果你们想成为重要人物，就必须首先使自己承认“我确实很重要”，而且要真正的这么觉得，别人才会跟着这么想。
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 提交活动]()
 [![liugezhou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liugezhou&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
