@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-12-18</kbd>
+<kbd>2022-12-19</kbd>
 
-- 如果你们想成为重要人物，就必须首先使自己承认“我确实很重要”，而且要真正的这么觉得，别人才会跟着这么想。
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 提交活动]()
 [![liugezhou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liugezhou&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
