@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2022-12-20</kbd>
+<kbd>2022-12-21</kbd>
 
-- 因为朋友的离世，我回忆了我短暂的半生，没有后悔，没有遗憾。每件事都尽力做了，每个人都用心爱过，对没有结果的不会耿耿于怀，对没得到的不再执着追求。像那个老师说的，总有一天你遇到的人和事，会让你觉得高考时候错的那道题刚刚好。人生辽阔，往事一笑而过。  
+- 任何一个你不喜欢又离不开的地方，任何一种你不喜欢又摆脱不了的生活，就是监狱。如果你感到痛苦和不自由，希望你心里永远有一团不会熄灭的火焰，不要麻木，不要被同化。 
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 提交活动]()
 [![liugezhou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liugezhou&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
