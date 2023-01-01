@@ -20,19 +20,19 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [每周小结&lpar;*88&rpar;:年终小结](https://blog.liugezhou.online/202251-No88/) 
+- 🦆 [每周小结&lpar;*89&rpar;:立个Flag](https://blog.liugezhou.online/202252-No89/) 
 
-- 🧰 [每周小结&lpar;*87&rpar;:新十条之后](https://blog.liugezhou.online/202250-No87/) 
+- 🧰 [每周小结&lpar;*88&rpar;:年终小结](https://blog.liugezhou.online/202251-No88/) 
 
-- 🤩 [每周小结&lpar;*86&rpar;:积极心态](https://blog.liugezhou.online/202249-No86/) 
+- 🤩 [每周小结&lpar;*87&rpar;:新十条之后](https://blog.liugezhou.online/202250-No87/) 
+
+- ⚗️ [每周小结&lpar;*86&rpar;:积极心态](https://blog.liugezhou.online/202249-No86/) 
 
 - ⚗️ [每周小结&lpar;*85&rpar;:挂了](https://blog.liugezhou.online/202248-No85/) 
 
-- ⚗️ [每周小结&lpar;*84&rpar;:看今朝](https://blog.liugezhou.online/202247-No84/) 
+- 🌊 [每周小结&lpar;*84&rpar;:看今朝](https://blog.liugezhou.online/202247-No84/) 
 
-- 🌊 [每周小结&lpar;*83&rpar;:辩证眼光看审核](https://blog.liugezhou.online/202246-No83/) 
-
-- 🧰 [邓小平时代](https://blog.liugezhou.online/read003-%E9%82%93%E5%B0%8F%E5%B9%B3%E6%97%B6%E4%BB%A3/) 
+- 🧰 [每周小结&lpar;*83&rpar;:辩证眼光看审核](https://blog.liugezhou.online/202246-No83/) 
 <!-- BLOG-POST-LIST:END -->
 
 
