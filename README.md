@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2023-01-05</kbd>
+<kbd>2023-01-06</kbd>
 
-- 一个人可以失败很多次，但是只要他没有开始责怪旁人，他还不是一个失败者。  
+- Every man dies,not every man really lives   
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -49,6 +49,7 @@
 
 #### [ 🧐 提交活动]()
 [![liugezhou's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liugezhou&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
