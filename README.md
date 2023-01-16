@@ -10,8 +10,6 @@
 </p>
 <!--End-->
 
-
-
 #### [ 🧑‍💻 最近博客](https://blog.liugezhou.online)
 <!-- 
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" /> -->
@@ -31,7 +29,7 @@
 
 - 🧰 [每周小结&lpar;*86&rpar;:积极心态](https://blog.liugezhou.online/202249-No86/)
 <!-- BLOG-POST-LIST:END -->
-- [竹白订阅](https://zhouzou.zhubai.love)
+- [竹白订阅](https://zhouzhou.zhubai.love)
 
 #### [ ✨ 今日前端](https://day.liugezhou.online)
 <image src="https://cdn.staticaly.com/gh/liugezhou/image@master/day/today.png" height="400px"/>
