@@ -27,7 +27,7 @@
 
 - 🌊 [每周小结&lpar;*87&rpar;:新十条之后](https://blog.liugezhou.online/202250-No87/) 
 
-- 🧰 [每周小结&lpar;*86&rpar;:积极心态](https://blog.liugezhou.online/202249-No86/)
+- 🧰 [每周小结&lpar;*86&rpar;:积极心态](https://blog.liugezhou.online/202249-No86/) 
 <!-- BLOG-POST-LIST:END -->
 - [竹白订阅](https://zhouzhou.zhubai.love)
 
