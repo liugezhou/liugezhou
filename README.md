@@ -15,19 +15,19 @@
 <img align='right' src="https://wiki.eryajf.net/img/dengxia.gif" width="330" /> -->
 
 <!-- BLOG-POST-LIST:START -->
-- 🦆 [以太坊基础笔记](https://blog.liugezhou.online/034-ethereum/) 
+- 🦆 [每周小结&lpar;*96&rpar;:十分钟冥想](https://blog.liugezhou.online/202307-No96/) 
 
-- 🧰 [web3js 实战基本操作](https://blog.liugezhou.online/033-web3js%E5%AE%9E%E6%88%98%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/) 
+- 🧰 [以太坊基础笔记](https://blog.liugezhou.online/034-ethereum/) 
 
-- 🤩 [每周小结&lpar;*95&rpar;:小酒](https://blog.liugezhou.online/202306-No95/) 
+- 🤩 [web3js 实战基本操作](https://blog.liugezhou.online/033-web3js%E5%AE%9E%E6%88%98%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/) 
+
+- ⚗️ [每周小结&lpar;*95&rpar;:小酒](https://blog.liugezhou.online/202306-No95/) 
 
 - ⚗️ [每周小结&lpar;*94&rpar;:KTV小小感](https://blog.liugezhou.online/202305-No94/) 
 
-- ⚗️ [每周小结&lpar;*93&rpar;:离职后很焦虑怎么缓解](https://blog.liugezhou.online/202304-No93/) 
+- 🌊 [每周小结&lpar;*93&rpar;:离职后很焦虑怎么缓解](https://blog.liugezhou.online/202304-No93/) 
 
-- 🌊 [每周小结&lpar;*92&rpar;:新年快乐](https://blog.liugezhou.online/202303-No92/) 
-
-- 🧰 [每周小结&lpar;*91&rpar;:寻觅意义](https://blog.liugezhou.online/202302-No91/) 
+- 🧰 [每周小结&lpar;*92&rpar;:新年快乐](https://blog.liugezhou.online/202303-No92/) 
 <!-- BLOG-POST-LIST:END -->
 - [竹白订阅](https://zhouzhou.zhubai.love)
 
