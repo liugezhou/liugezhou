@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2023-06-12</kbd>
+<kbd>2023-06-13</kbd>
 
-- 人是不同的，冲突是不会消失的，能相处的一定只是“我愿意”，而不是“我本来就是这样的人”。
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
+
 
 
 
