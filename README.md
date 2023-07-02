@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2023-07-01</kbd>
+<kbd>2023-07-02</kbd>
 
-- 人的错觉：我必须先搞清楚这件事怎么做，才能去做，不然我不知道该怎么做。
+- 因为朋友的离世，我回忆了我短暂的半生，没有后悔，没有遗憾。每件事都尽力做了，每个人都用心爱过，对没有结果的不会耿耿于怀，对没得到的不再执着追求。像那个老师说的，总有一天你遇到的人和事，会让你觉得高考时候错的那道题刚刚好。人生辽阔，往事一笑而过。  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
+
 
 
 
