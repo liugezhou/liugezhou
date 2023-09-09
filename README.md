@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2023-09-08</kbd>
+<kbd>2023-09-09</kbd>
 
-- 沉默带给你的好处很多，摆低姿态，变的谦虚，换言之就是，隐藏你的聪明。越聪明的人，越懂得沉默，就像成熟的稻子，垂下稻穗。
+- Some things are far away, you strive for, it will be closer and closer to you。
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
+
 
 
 
