@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2023-10-05</kbd>
+<kbd>2023-10-06</kbd>
 
-- 如果真心喜欢一个故事，还是要问自己，是否真正花时间了解了故事的全貌，是在乎故事的热度，还是在乎它和自己的心灵契合度。
+- One is always on a strange road,watching strange scenery and listening to strange music. Then one day,you will find that the things you try hard to forget are already gone.  
 
 <p align="right">
 <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
+
 
 
 
