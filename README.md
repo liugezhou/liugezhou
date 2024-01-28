@@ -31,11 +31,12 @@
 <!-- BLOG-POST-LIST:END -->
 - [竹白订阅](https://zhouzhou.zhubai.love)
 
-#### [ ✨ 今日前端](https://day.liugezhou.online)
-<image src="https://cdn.staticaly.com/gh/liugezhou/image@master/day/today.png" height="400px"/>
+<!-- #### [ ✨ 今日前端](https://day.liugezhou.online)
+<image src="https://cdn.statically.io/gh/liugezhou/image@master/day/today.png" height="400px"/> -->
 
 #### [ 🧐 提交活动]()
-  <img alt="liugezhou's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=liugezhou&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" height="192px" />
+
+  [![liugezhou's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liugezhou&bg_color=040109&color=3b9767&line=4c9e86&point=57d016&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### [ 📈 数据总览]()
 <a href="https://github.com/liugezhou" target="_blank">
