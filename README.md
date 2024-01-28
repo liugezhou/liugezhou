@@ -6,7 +6,8 @@
 - 只有有耐心圆满完成简单工作的人，才能轻而易举地完成困难的事。  
 
 <p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" /> -->
+<img src="https://komarev.com/ghpvc/?username=liugezhou&label=Profile%20views&color=blueviolet&style=flat" alt="liugezhou"/></p>
 </p>
 <!--End-->
 
