@@ -1,13 +1,12 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>
 
-<kbd>2024-01-28</kbd>
+<kbd>2024-01-29</kbd>
 
-- 只有有耐心圆满完成简单工作的人，才能轻而易举地完成困难的事。  
+- 所有值得做的事情，做得一团糟也值得做，因为做得糟总比不做好。  
 
 <p align="right">
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" /> -->
-<img src="https://komarev.com/ghpvc/?username=liugezhou&label=Profile%20views&color=blueviolet&style=flat" alt="liugezhou"/></p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
 </p>
 <!--End-->
 
@@ -43,6 +42,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>
+
 
 
 
