@@ -12,7 +12,7 @@ function run() {
     const quotations = quotation.split('\n').filter((it) => it.startsWith('-'))
     const daily = sample(quotations)
     const before = `<!--Start-->
- <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> Every Day</a></h4>`
+ <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> 每日一言</a></h4>`
     const newReadme = `${before}
 
 <kbd>${date}</kbd>
