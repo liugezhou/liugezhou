@@ -19,9 +19,6 @@ function run() {
 
 ${daily}
 
-<p align="right">
-<img src="https://visitor-badge.glitch.me/badge?page_id=liugezhou.liugezhou" />
-</p>
 <!--End-->${after}
 `
 
