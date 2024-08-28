@@ -3,7 +3,7 @@
 
 <kbd>2024-08-28</kbd>
 
-- 沉默带给你的好处很多，摆低姿态，变的谦虚，换言之就是，隐藏你的聪明。越聪明的人，越懂得沉默，就像成熟的稻子，垂下稻穗。
+- May Courage be greater than fear, and love more than dullness
 
 <!--End-->
 
@@ -41,4 +41,5 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>-->
+
 
