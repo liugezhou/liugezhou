@@ -111,3 +111,4 @@
 - 人们拥有一种神奇的能力，就是使事情发生。但是大多数人从来不敢尝试这种能力，只是默默接受世界本来的样子。
 - 真正让你觉得累的是这些未知的情绪内耗，而真正能帮助你进步的是你的行动力。
 - Yesterday is a history,Tomorrow is a mystery,But Today is a gift,This is why it is called today is "Present".
+- 清空你的大脑方能再次注满
