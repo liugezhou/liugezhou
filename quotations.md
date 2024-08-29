@@ -112,3 +112,4 @@
 - 真正让你觉得累的是这些未知的情绪内耗，而真正能帮助你进步的是你的行动力。
 - Yesterday is a history,Tomorrow is a mystery,But Today is a gift,This is why it is called today is "Present".
 - 清空你的大脑方能再次注满
+- 生命不是从 30 岁或 50 岁开始的，而是你停止讨好别人那天起真正开始的。活出自我，才是生命真正的开始。
