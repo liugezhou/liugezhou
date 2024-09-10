@@ -113,3 +113,5 @@
 - Yesterday is a history,Tomorrow is a mystery,But Today is a gift,This is why it is called today is "Present".
 - 清空你的大脑方能再次注满
 - 生命不是从 30 岁或 50 岁开始的，而是你停止讨好别人那天起真正开始的。活出自我，才是生命真正的开始。
+- 不停地想应该如何让未来更精彩，行动不是给自己准备从什么时候开始，是无时不刻要开始。
+- 做不好的就别做了，要做就必须做到非常好。
