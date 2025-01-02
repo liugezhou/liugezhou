@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> 每日一言</a></h4>
 
-<kbd>2025-01-01</kbd>
+<kbd>2025-01-02</kbd>
 
-- 如果你有普通的性格，简单的快乐，稳定的情绪，一般的工作，平平淡淡的生活，不攀比的心境，从从容容，那么你真是个很优秀的人。  
+- 生命在于折腾。做成一件事情时，不要特别放大自己；事情没做好，也不用气馁。 一定要相信我是牛逼的，这件事情不行没有关系，我接着做下一个，我死之前一直干，早晚能成。   
 
 <!--End-->
 
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>-->
+
 
 
 
