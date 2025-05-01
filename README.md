@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> 每日一言</a></h4>
 
-<kbd>2025-04-30</kbd>
+<kbd>2025-05-01</kbd>
 
-- It's never too late to be who you wanna be,to say what you wanna say. 
+- Fear not that the life shall come to an end, but rather fear that it shall never have a beginning.  
 
 <!--End-->
 
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>-->
+
 
 
 
