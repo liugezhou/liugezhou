@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> 每日一言</a></h4>
 
-<kbd>2025-08-14</kbd>
+<kbd>2025-08-15</kbd>
 
-- 把一个道理讲清楚是一件事，但是否能做到则是另一件事。好的写作者，并不依赖于灵感，而是依赖系统和习惯。
+- 如果你要说服其他人向你的项目投资，你应该先说服自己，为什么你愿意把时间和金钱投入这个项目，然后向其他人解释这一点，他们就会相信你。
 
 <!--End-->
 
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>-->
+
 
 
 
