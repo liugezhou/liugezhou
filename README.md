@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> 每日一言</a></h4>
 
-<kbd>2025-10-20</kbd>
+<kbd>2025-10-21</kbd>
 
-- 因为朋友的离世，我回忆了我短暂的半生，没有后悔，没有遗憾。每件事都尽力做了，每个人都用心爱过，对没有结果的不会耿耿于怀，对没得到的不再执着追求。像那个老师说的，总有一天你遇到的人和事，会让你觉得高考时候错的那道题刚刚好。人生辽阔，往事一笑而过。  
+- 你学不会的东西，老天爷会让你一遍一遍经历。如果一个人有明显的缺点，比如不细心、马虎，Ta会在未来的人生经历中一次次犯错，一次次体会因为马虎带来的失败，直到他改正这个缺点为止。  
 
 <!--End-->
 
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>-->
+
 
 
 
