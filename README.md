@@ -1,9 +1,9 @@
 <!--Start-->
  <h4> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/liugezhou/liugezhou/blob/master/quotations.md"> 每日一言</a></h4>
 
-<kbd>2025-11-03</kbd>
+<kbd>2025-11-04</kbd>
 
-- 人的错觉：我必须先搞清楚这件事怎么做，才能去做，不然我不知道该怎么做。
+- 我一无所有，除了微笑，无论何时何地遇到何事，微笑都可以令我感觉到我的生活比以往更加美好  
 
 <!--End-->
 
@@ -41,6 +41,7 @@
 <a href="https://github.com/liugezhou" target="_blank">
   <img alt="数据总览" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=liugezhou&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
 </a>-->
+
 
 
 
